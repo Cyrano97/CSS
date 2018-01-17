@@ -10,12 +10,12 @@ layout of pages with CSS
 
 ## 表现（presentation）
 表现技术用于对以及被结构化的信息进行显示上的控制，包括版式、颜色、大小等样式控制。在目前的web展示中，用于表现的web标准技术主要就是CSS技术
-
+![](/Img/CSSNote2.png)
 
 ## 行为（behavior）
 行为是指对整个文档内部的一个模板进行定义和交互行为的编写，用于编写用户可以进行交互式操作的文档。表现行为的web标准技术主要有：
-↘DOM
-↘ECMAScript(JavaScript的扩展脚本语言)
+↘DOM      ![](/Img/CSSNote3.png)
+↘ECMAScript(JavaScript的扩展脚本语言)  ![](/Img/CSSNote4.png)
 
 ## margin外边距外间距 即div与div间距 
 
