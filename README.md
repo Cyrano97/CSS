@@ -1,7 +1,11 @@
 # CSS
 layout of pages with CSS
 
-## margin外边距外间距 即div与div间距
+**web标准**逐步地变为由三大部分组成的标准集：结构（structure）、表现（persentation）以及行为（behavior）
+
+## margin外边距外间距 即div与div间距 
+
+[margin语法详解](http://www.divcss5.com/rumen/r128.shtml#top "外链")
 
 margin用于设置对象标签之间距离间隔，比如2个上下排列的DIV盒子，我们就可以使用margin样式实现上下2个盒子间距。Margin呈现是位于对象边框外侧，紧贴于边框，marign与padding位置却相反css padding却是紧贴边框位于边框内侧。
 
@@ -31,7 +35,10 @@ margin-bottom 对象下边外延边距 （margin-bottom:5px; 下边外延距离5
 
 ### 二、缩写(暂略)
 
-## padding内补白(内边距)left right top bottom
+## padding内补白(内边距)left right top bottom 
+
+[padding语法详解](http://www.divcss5.com/rumen/r418.shtml "外链")
+
 padding : +数值+单位 或 百分比数值
 
 div{padding:5px}设置对象距离四边边距为5px间隔
